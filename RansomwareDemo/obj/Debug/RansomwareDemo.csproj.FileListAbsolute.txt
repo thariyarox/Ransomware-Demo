@@ -1,0 +1,16 @@
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\bin\Debug\RansomwareDemo.exe.config
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\bin\Debug\RansomwareDemo.exe
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\bin\Debug\RansomwareDemo.pdb
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\DecryptorApp.baml
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\MainWindow.baml
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\myencryptor.baml
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\DecryptorApp.g.cs
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\myencryptor.g.cs
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\App.g.cs
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\RansomwareDemo_MarkupCompile.cache
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\RansomwareDemo.g.resources
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\RansomwareDemo.Properties.Resources.resources
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\RansomwareDemo.csproj.GenerateResource.Cache
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\RansomwareDemo.exe
+C:\Users\Tharindu\documents\visual studio 2012\Projects\RansomwareDemo\RansomwareDemo\obj\Debug\RansomwareDemo.pdb
